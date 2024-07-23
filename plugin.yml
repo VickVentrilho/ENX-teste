@@ -1,0 +1,7 @@
+name: WindCharge
+main: com.example.windcharge.WindChargePlugin
+version: 1.0
+api-version: 1.21
+commands:
+  windcharge:
+    description: Comando para o Wind Charge
